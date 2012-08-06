@@ -1,0 +1,18 @@
+{
+	"title": "Understanding Streams (Video)",
+	"description": "Understanding Read Streams, Write Streams and Pipes",
+	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
+	"tags": ["streams", "pipes"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 3,
+  "categories": [
+    ["Intro"],
+    ["Streams"]
+  ]
+}
